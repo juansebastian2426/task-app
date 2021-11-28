@@ -1,0 +1,14 @@
+.form-container {
+  border-radius: 10px;
+  padding: 20px;
+  -webkit-box-shadow: 2px 2px 14px -2px #3F51B5; 
+  box-shadow: 2px 2px 14px -2px #3F51B5;
+}
+
+.form-container__input--no-resize {
+  resize: none;
+}
+
+.form-container__field--full-width {
+  width: 100%;
+}

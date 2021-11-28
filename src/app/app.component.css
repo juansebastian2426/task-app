@@ -1,0 +1,12 @@
+.app {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 100px;
+  height: 100%;
+  margin: 30px 20px 0 20px;
+}
+
+.app-form {
+  display: flex;
+  justify-content: center;
+}
